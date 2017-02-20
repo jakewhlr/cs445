@@ -1,0 +1,11 @@
+a1 r5
+a2 r6
+a3 r7
+r5 r3
+r6 r3
+r7 r4
+r3 r2
+r4 r2
+r2 r1
+r1 v
+v none
